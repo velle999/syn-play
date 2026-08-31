@@ -1,7 +1,7 @@
 pkgbase = syn-play
 	pkgdesc = Playlists, shuffle, quick open and history for mpv — window, terminal UI and command line
 	pkgver = 0.1.0
-	pkgrel = 7
+	pkgrel = 8
 	url = https://github.com/velle999/SYNAPSE
 	arch = x86_64
 	license = GPL-2.0-or-later
@@ -13,7 +13,7 @@ pkgbase = syn-play
 	optdepends = mpv: the player itself — without it there is nothing to drive
 	optdepends = quickshell: the window (syn-play gui)
 	optdepends = yt-dlp: playing a URL, which mpv hands to it
-	source = syn-play-0.1.0.tar.gz::https://github.com/velle999/syn-play/releases/download/0.1.0-7/syn-play-0.1.0.tar.gz
+	source = syn-play-0.1.0.tar.gz::https://github.com/velle999/syn-play/releases/download/0.1.0-8/syn-play-0.1.0.tar.gz
 	sha256sums = SKIP
 
 pkgname = syn-play
